@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "ysl",
+      "type": "cn.funcode.yslspringbootstarter.YslProperties",
+      "sourceType": "cn.funcode.yslspringbootstarter.YslProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ysl.age",
+      "type": "java.lang.String",
+      "sourceType": "cn.funcode.yslspringbootstarter.YslProperties"
+    },
+    {
+      "name": "ysl.bundle-name",
+      "type": "java.lang.String",
+      "sourceType": "cn.funcode.yslspringbootstarter.YslProperties"
+    },
+    {
+      "name": "ysl.name",
+      "type": "java.lang.String",
+      "sourceType": "cn.funcode.yslspringbootstarter.YslProperties"
+    },
+    {
+      "name": "ysl.play",
+      "type": "java.lang.String",
+      "sourceType": "cn.funcode.yslspringbootstarter.YslProperties"
+    }
+  ],
+  "hints": []
+}
